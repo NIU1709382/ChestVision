@@ -1,0 +1,13 @@
+# Initial notebook dependencies; freeze versions after a validated dataset run.
+kagglehub
+torch
+torchvision
+torchxrayvision
+numpy
+pandas
+scikit-image
+scikit-learn
+scipy
+matplotlib
+seaborn
+jupyterlab

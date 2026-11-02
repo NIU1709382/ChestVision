@@ -3,7 +3,19 @@
   "workload": [
     {
       "member": "Patrik835",
-      "percentage": 100
+      "percentage": 25
+    },    
+    {
+      "member": "",
+      "percentage": 25
+    },
+    {
+      "member": "",
+      "percentage": 25
+    },
+    {
+      "member": "",
+      "percentage": 25
     }
   ]
 }

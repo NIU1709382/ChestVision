@@ -1,0 +1,14 @@
+# Local runtimes and notebook checkpoints
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+# Dataset, downloaded weights, and generated per-image results
+/data/
+/outputs/
+*.pt
+*.pth
+# Local credentials
+.env
+.env.*
+!.env.example
+kaggle.json

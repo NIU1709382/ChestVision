@@ -1,10 +1,33 @@
 {
-  "teamName": "ChestVision",
-  "members": [
+  "team_name": "ChestVision",
+  "students": [
     {
-      "name": "Patrik835",
-      "github": "Patrik835",
-      "role": "Maintainer"
-    }
-  ]
+        "student_id": "k52202321",
+        "first_name": "Patrik",
+        "last_name": "Palenčár",
+        "email": "k52202321@students.jku.at",
+        "github_user": "Patrik835"
+    },
+    {
+        "student_id": "",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "github_user": ""
+        },
+        {
+          "student_id": "",
+          "first_name": "",
+          "last_name": "",
+          "email": "",
+          "github_user": ""
+        },
+        {
+          "student_id": "",
+          "first_name": "",
+          "last_name": "",
+          "email": "",
+          "github_user": ""
+        }
+    ]
 }
